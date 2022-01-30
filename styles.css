@@ -1,0 +1,54 @@
+body {
+	font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+	background: black;
+}
+.postcard {
+	width: 400px;
+	height: 300px;
+	margin: auto;
+	background: white;
+}
+.postcard-header {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-style: normal;
+	font-weight: normal;
+	display: flex;
+	padding: 10px;
+}
+.postcard-body {
+	display: flex;
+}
+.postcard-footer {
+	text-align: center;
+}
+.body-left {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	padding: 10px;
+}
+.body-right {
+	padding: 10px;
+}
+img {
+	width: 50px;
+	height: 50px;
+}
+h1 {
+	width: 370px;
+	margin: 0px;
+}
+p {
+	margin-top: 0px;
+}
+button {
+	background-color: gainsboro;
+	padding: 5px 5px 5px 5px;
+}
+input {
+	border-top: 0px;
+	border-right: 0px;
+	border-bottom: 1.5px solid grey;
+	border-left: 0px;
+}
